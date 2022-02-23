@@ -1,2 +1,2 @@
 # CsharpHomeworks
-My homework projects on C#. To tun repositury CsharpPersonalLybrary is requred, for dependencies.
+My homework projects on C# for CP subject. To tun repositury CsharpPersonalLybrary is requred, for dependencies.
