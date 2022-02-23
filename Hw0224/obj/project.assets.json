@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gregory/programming/C#Projects/CsHomeworks/Hw0224/Hw0224.csproj",
+      "projectUniqueName": "/home/gregory/programming/C#Projects/CsCPHomeworks/Hw0224/Hw0224.csproj",
       "projectName": "Hw0224",
-      "projectPath": "/home/gregory/programming/C#Projects/CsHomeworks/Hw0224/Hw0224.csproj",
+      "projectPath": "/home/gregory/programming/C#Projects/CsCPHomeworks/Hw0224/Hw0224.csproj",
       "packagesPath": "/home/gregory/.nuget/packages/",
-      "outputPath": "/home/gregory/programming/C#Projects/CsHomeworks/Hw0224/obj/",
+      "outputPath": "/home/gregory/programming/C#Projects/CsCPHomeworks/Hw0224/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gregory/.nuget/NuGet/NuGet.Config"
