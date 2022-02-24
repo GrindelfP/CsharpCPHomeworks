@@ -14,4 +14,13 @@
       </Reference>
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Include="..\..\CsPersonalLibraries\ConsoleMethods\ConsoleInput.cs">
+        <Link>ConsoleInput.cs</Link>
+      </Compile>
+      <Compile Include="..\..\CsPersonalLibraries\ConsoleMethods\ConsoleOutput.cs">
+        <Link>ConsoleOutput.cs</Link>
+      </Compile>
+    </ItemGroup>
+
 </Project>

@@ -1,13 +1,19 @@
-﻿using static hw0302.VariantOne;
+﻿using static Hw0224.VariantOne;
 using static ConsoleMethods.ConsoleInput;
 using static ConsoleMethods.ConsoleOutput;
 
-namespace hw0224;
+namespace Hw0224;
 
 internal static class Program
 {
     private static void Main()
     {
-        PrintLn(GetNegativeSum(ArrayInput("number")));
+        // Variant One
+        var array = ArrayNumInput();
+        
+        PrintLn(GetNegativeSum(array));
+        PrintLn(GetProductBetween(GetMaxMinIndexes(array), array));
+        PrintLn(GetAbsMax(array));
+        PrintLn(GetSumBetween(GetFirstSecondPositiveIndexes(array), array));
     }
 }
