@@ -1,0 +1,15 @@
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/Hw001
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/Hw001.deps.json
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/Hw001.runtimeconfig.json
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/Hw001.dll
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/ref/Hw001.dll
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/bin/Debug/net6.0/Hw001.pdb
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.csproj.AssemblyReference.cache
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.GeneratedMSBuildEditorConfig.editorconfig
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.AssemblyInfoInputs.cache
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.AssemblyInfo.cs
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.csproj.CoreCompileInputs.cache
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.dll
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/ref/Hw001.dll
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.pdb
+/home/gregory/programming/C#Projects/CsCPHomeworks/Hw001/obj/Debug/net6.0/Hw001.genruntimeconfig.cache

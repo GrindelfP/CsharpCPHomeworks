@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+        <RootNamespace>Hw0224</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="ConsoleMethods, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\CsPersonalLibraries\ConsoleMethods\bin\Debug\net6.0\ConsoleMethods.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="..\..\CsPersonalLibraries\ConsoleMethods\ConsoleInput.cs">
+        <Link>ConsoleInput.cs</Link>
+      </Compile>
+      <Compile Include="..\..\CsPersonalLibraries\ConsoleMethods\ConsoleOutput.cs">
+        <Link>ConsoleOutput.cs</Link>
+      </Compile>
+    </ItemGroup>
+
+</Project>
